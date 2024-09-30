@@ -6,4 +6,4 @@ if (breadCount >= 2 && hamCount >= 1 && tunaCount >= 1) {
 	displayThisText("I can make a tuna sandwich!");
 } else { 
 	displayThisText("I'd rather be fasting tonight..")
-
+}
